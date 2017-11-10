@@ -10,6 +10,7 @@ How to play:
 3. Enjoy!
 
 Controls (mapped according to the physical GBA, controls may differ per emulator):
+
 Movement: D-pad
 Attack/menu select: A button
 Back (in menu): B button
