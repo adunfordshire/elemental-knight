@@ -12,11 +12,17 @@ How to play:
 Controls (mapped according to the physical GBA, controls may differ per emulator):
 
 Movement: D-pad
+
 Attack/menu select: A button
+
 Back (in menu): B button
+
 Change element: L/R
+
 Cheat for omni-element: Select
+
 Open menu: Start
+
 
 
 All code was written in C and all graphical elements were created by me and converted to C-compatible bitmaps. Different sound effects were used from https://www.sounds-resource.com/.
